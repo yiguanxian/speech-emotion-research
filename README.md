@@ -1,2 +1,3 @@
 # speech-emotion-research
-Keras implementation of ''Speech Emotion Recognition using deep learning and transfer learning'',IEEE APSIPA-19 https://arxiv.org/abs/1907.****
+## This repository contains the source code used in the following paper
+#### Speech Emotion Recognition using deep learning and transfer learning,IEEE APSIPA-19,[[paper]](https://arxiv.org/abs/1907.****)
